@@ -1,0 +1,27 @@
+.teamMatches-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 20px;
+}
+.banner {
+  width: 100%;
+  height: 400px;
+}
+.MatchCard-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  height: auto;
+  padding: 20px;
+}
+.title {
+  color: #ffffff;
+  font-family: Bree serif;
+  font-size: 30px;
+}

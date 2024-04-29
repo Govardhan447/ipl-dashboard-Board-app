@@ -1,0 +1,28 @@
+.team-card-container {
+  width: 400px;
+  height: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #57667d4b;
+  margin-bottom: 25px;
+  justify-content: center;
+}
+.team-logo {
+  width: 120px;
+  height: 100px;
+  display: flex;
+  margin-right: 15px;
+}
+.team{
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100px;
+  align-items: center;
+}

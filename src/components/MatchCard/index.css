@@ -1,0 +1,28 @@
+.match-card-container {
+  width: 250px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin: 15px;
+}
+.card-team-logo {
+  width: 100px;
+  height: 100px;
+}
+.result {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Bree serif;
+}
+.red {
+  color: #d91c1f;
+  font-size: 30px;
+  font-family: Bree serif;
+}
+
+.green {
+  color: #2bdf61;
+  font-size: 30px;
+  font-family: Bree serif;
+}
